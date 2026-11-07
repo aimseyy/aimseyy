@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://64.media.tumblr.com/08028ec1990e524992b4dc528fcfcdf3/3ffa0ad7c7b2b6bb-34/s2048x3072/091797b7d4791add3c7bbec0aa34568b242e4ec0.jpg"  />
+  <img data-importer="image" height="239" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCq---9RZ7XK_L5mguigApNIY2luM_RyL_j93Z6qoRIg&s=10"  />
 </div>
 
 ###
@@ -29,15 +29,21 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinKb6czMwA8SG_RZyvAlSgPqIPOoUVAJdcA_zpa_5CA&s=10"  />
-
-###
-
-<div data-importer="music" align="center">
+<div data-importer="music" align="left">
   <a href="https://open.spotify.com/user/040jxpksl4xmuwaypcg0pze6y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=040jxpksl4xmuwaypcg0pze6y&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-98yXJJXqBCPCrW0jr_LfKeamjTJPYlhF9bVN-19xg&s=10"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinKb6czMwA8SG_RZyvAlSgPqIPOoUVAJdcA_zpa_5CA&s=10"  />
 
 ###
 
@@ -57,6 +63,16 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://static.wikitide.net/theflightwiki/thumb/e/e1/OsteonStuckUnderADoor.jpg/243px-OsteonStuckUnderADoor.jpg"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">i miss u c!aimsey</p>
+
+###
+
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-2Ia8KHkAPKYD9q9aFivwhyC6FOXXSNajrw-bLIQDg&s=10"  />
 </div>
 
 ###
